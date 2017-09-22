@@ -1,0 +1,23 @@
+{
+  "name": "homework-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyuanl1/Homework-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyuanl1/Homework-MySQL/issues"
+  },
+  "homepage": "https://github.com/boyuanl1/Homework-MySQL#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.14.1"
+  }
+}
